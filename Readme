@@ -1,0 +1,10 @@
+ Network Security project for CS 6490 Fall 2013
+
+                     Project Title - SDP: A Secure Dynamic Password System
+                     Contributors - Amal Yousseef, Shravanthi Manohar, My Huynh
+
+We propose a secure dynamic password system that generates different login information each time a user tries to login to the system, so that 
+the information sent over the channel will be different for each login trial. Our proposed system contains four stages, namely, Registration Stage, Login Stage, Authentication Stage and Password Change Stage.
+We use Diffie-Hellman protocol for Encryption.
+
+
